@@ -1,2 +1,15 @@
 # Example-Web-Service-
- Example with Spring-boot, JpaRepository , DTO
+
+### Compilation instructions 🔧
+
+- 
+
+## Made with 🛠️
+
+* Java
+* Spring Framework
+* JPA
+
+## Authors ✒️
+
+* **Juan Francisco Berenguer**
