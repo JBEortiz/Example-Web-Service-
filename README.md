@@ -1,4 +1,4 @@
-# Example-Web-Service-
+# Example-Web-Service
 
 ### Compilation instructions 🔧
 
